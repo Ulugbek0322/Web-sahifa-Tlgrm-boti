@@ -1,0 +1,7 @@
+{
+  "bot_token": "BU_YERGA_BOTFATHER_BERGAN_TOKENNI_QO'YING",
+  "teacher_username": "User_on",
+  "teacher_name": "Oğabek Qudratov",
+  "port": 8080,
+  "allowed_origins": ["*"]
+}
